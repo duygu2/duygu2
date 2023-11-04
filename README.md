@@ -1,8 +1,8 @@
 ### Hello World 👋
 
 <h1 align="center">I'm Duygu</h1>
-<h3 align="center">A computer engineering student</h3>
-<h4 align="center">I am studying Computer Engineering and Management Information Systems. In this world where new information is added every day,   I try to learn new information every day. I love coding.</h4>
+
+<h4 align="center">I am Computer Engineering and Management Information Systems. In this world where new information is added every day,   I try to learn new information every day. I love coding.</h4>
 
 
 
